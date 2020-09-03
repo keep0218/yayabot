@@ -451,4 +451,4 @@ if __name__ == "__main__":
     # 객체를 생성
     client = chatbot()
     # TOKEN 값을 통해 로그인하고 봇을 실행
-client.run("NzUwOTU5NDYxMDE0ODMxMTE1.X1CHfw.q5DS8m_Pv0mfNKAzrW-iyvFVeIw")
+client.run("NzUwOTU5NDYxMDE0ODMxMTE1.X1CHfw.Fp8z65QEniNdx5KFoGt_83kPfdo")
